@@ -21,6 +21,12 @@
 
   7. [https://miro7923.github.io/uno mas/teamwork-by-github/](https://miro7923.github.io/uno%20mas/teamwork-by-github/)
 
+- 포크 후 원본 이랑 동기화
+  1. 포크를 해 온다
+  2. 포크한 내용을 내가 수정한다.
+  3. sync fork 로 내 수정본을 병합해달라고 요청한다
+  4. 원본에서 수락
+  5. 동기화 완료
 - git remote로컬 Git 저장소와 원격 저장소 간의 연결을 관리
 
   1. **원격 저장소 목록 확인**
